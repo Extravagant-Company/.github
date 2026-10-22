@@ -1,6 +1,13 @@
-## The Extravagant Company 🚀
+<a href="https://exolyt.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://extravagant.limited/exolyt-logo-white-colorful.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://extravagant.limited/exolyt-logo-black-colorful.svg">
+    <img alt="Exolyt" src="https://extravagant.limited/exolyt-logo-black-colorful.svg" width="240">
+  </picture>
+</a>
 
-We at The Extravagant Company are build experiments that aim for exponential growth. You can read more about us and our open positions from [The Extravagant Company's website](https://www.extravagant.limited/).
+# The company behind Exolyt
 
-Our main product is [Exolyt](https://exolyt.com), which is the leading [TikTok Analytics Platform](https://exolyt.com/premium).
+We are **The Extravagant Company**, a small team based in Helsinki building [Exolyt](https://exolyt.com) — TikTok analytics and social intelligence.
 
+[Explore Exolyt](https://exolyt.com) · [About the company](https://extravagant.limited)
