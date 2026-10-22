@@ -1,0 +1,9 @@
+{
+  "config": {
+    // The profile README opens with a <picture> logo block, so allow
+    // inline HTML, a non-heading first line, and long lines.
+    "MD013": false,
+    "MD033": false,
+    "MD041": false
+  }
+}
